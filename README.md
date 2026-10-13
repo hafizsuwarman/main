@@ -1,6 +1,6 @@
 ## Identitas
-* **Nama:** Ilham Muhamad Fikri
-* **NPM:** 2514101063
+* **Nama:** Hafiz Suwarman
+* * **NPM:** 2514101021
 * **Program Studi:** Informatika
 * **Fakultas:** Fakultas Teknik
 * **Universitas:** Universitas Majalengka
