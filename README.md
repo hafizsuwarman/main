@@ -1,7 +1,6 @@
 ## Identitas
 * **Nama:** Hafiz Suwarman
-* * **NPM:** 2514101021
+* **NPM:** 2514101021
 * **Program Studi:** Informatika
 * **Fakultas:** Fakultas Teknik
-* **Universitas:** Universitas Majalengka
-* **Universitas:** Majalengka
+* **Universitas Majalengka
